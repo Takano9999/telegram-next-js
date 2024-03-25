@@ -5,13 +5,13 @@
 </div>
   <h3 align="center">Telegram Clone</h3>
   <p align="center">
-    <a href="https://github.com/aryairama/telegram-next-js"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Takano9999/telegram-next-js"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://bit.ly/telegram_next">View Demo</a>
     ·
-    <a href="https://github.com/aryairama/telegram-next-js/issues">Report Bug</a>
+    <a href="https://github.com/Takano9999/telegram-next-js/issues">Report Bug</a>
     ·
-    <a href="https://github.com/aryairama/telegram-next-js/issues">Request Feature</a>
+    <a href="https://github.com/Takano9999/telegram-next-js/issues">Request Feature</a>
   </p>
 </p>
 
@@ -60,7 +60,7 @@ This is an example of how to list things you need to use the software and how to
 
 - Clone This Front End Repo
 ```
-git clone https://github.com/aryairama/telegram-next-js.git
+git clone https://github.com/Takano9999/telegram-next-js.git
 ```
 - Go To Folder Repo
 ```
@@ -109,15 +109,15 @@ Contributions are what make the open source community such an amazing place to b
 
 
 ## Related Project
-:rocket: [`Backend Telegram Clone`](https://github.com/aryairama/telegram-express-js)
+:rocket: [`Backend Telegram Clone`](https://github.com/Takano9999/telegram-express-js)
 
-:rocket: [`Frontend Telegram Clone`](https://github.com/aryairama/telegram-next-js)
+:rocket: [`Frontend Telegram Clone`](https://github.com/Takano9999/telegram-next-js)
 
 :rocket: [`Demo Telegram Clone`](https://bit.ly/telegram_next)
 
 <!-- CONTACT -->
 ## Contact
 
-My Email : aryairama987@gmail.com
+My Email : takanokenji9@gmail.com
 
-Project Link: [https://github.com/aryairama/telegram-next-js](https://github.com/aryairama/telegram-next-js)
+Project Link: [https://github.com/Takano9999/telegram-next-js](https://github.com/Takano9999/telegram-next-js)
